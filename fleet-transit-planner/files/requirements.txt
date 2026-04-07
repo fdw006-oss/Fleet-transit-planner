@@ -1,0 +1,6 @@
+streamlit
+altair
+networkx
+scipy
+numpy
+pandas
